@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm manulla</h1>
-<h3 align="center">A passionate software engineer with experties in Flutter, Dart. I  specialize in developing cross-platform mobile application using Flutter and Dart.</h3>
-<h3></h3>
+<h3 align="center">A passionate software engineer with experties in Flutter, Dart. I like creating innovativeand efficient solution to real-world problem through the power of code with a strong background in mobile app developement and web technology.</h3>
+<h3  align="center">Continious Learning</h3>
+<h3  align="center">As technology is constantly evolving, I embrace the philosophy of lifelong learning. I stay up-to-date with the latest trends and advancements in the software developement industry, enabling me to leverage cutting-edge tools and technology to build state-of-the-art application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmanulla&label=Profile%20views&color=0e75b6&style=flat" alt="khanmanulla" /></p>
 
