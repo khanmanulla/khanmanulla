@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
   
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="flutter" width="40" height="40"/> </a>  
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg" alt="dart" width="40" height="40"/> </a> 
   <a href="https://grails.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grails/grails-ar21.svg" alt="grails" width="40" height="40"/> </a> 
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-ar21.svg" alt="groovy" width="40" height="40"/> </a> 
