@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmanulla&label=Profile%20views&color=0e75b6&style=flat" alt="khanmanulla" /></p>
 
-<p>- 🌱 I’m currently learning **Grails**</p>
+<p>- 🔭 I’m currently working on **Grails**</p>
 
-<p>- 💬 Ask me about **Futter**</p>
+<p>- 💬 Ask me about **Flutter**</p>
 
 <p>- 📫 How to reach me **khanmanulla@gmail.com**</p>
 
